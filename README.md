@@ -15,6 +15,11 @@
 | **Ch02. Statistical Learning** | **예빈** |  |
 | **Ch02. Statistical Learning** | **남규** |  |
 | **Ch02. Statistical Learning** | **서연** |  |
+| **Ch03. Linear Regression** | **재우** |  |
+| **Ch02. Linear Regression** | **예빈** |  |
+| **Ch02. Linear Regression** | **남규** |  |
+| **Ch02. Linear Regression** | **서연** |  |
+
 
 ---
 ## 🛠 Colab에서 파일 업로드 및 경로 설정 방법
