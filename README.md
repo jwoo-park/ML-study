@@ -28,7 +28,7 @@ ML-study/
 └── Ch03-Linear-Regression/
 ```
 ### 3. 학습 현황 (Learning status)
-1. 링크 형식: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/계정명/레포명/blob/main/챕터명/스터디원명/파일명.ipynb)
+1. 링크 형식: `[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/계정명/레포명/blob/main/챕터명/스터디원명/파일명.ipynb)`
 2. Open In Colab: https://openincolab.com/
 4. 학습 현황
 | 주제 | 스터디원 | 실습 바로가기 |
