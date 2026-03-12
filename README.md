@@ -16,9 +16,9 @@
 | **Ch02. Statistical Learning** | **남규** |  |
 | **Ch02. Statistical Learning** | **서연** |  |
 | **Ch03. Linear Regression** | **재우** |  |
-| **Ch02. Linear Regression** | **예빈** |  |
-| **Ch02. Linear Regression** | **남규** |  |
-| **Ch02. Linear Regression** | **서연** |  |
+| **Ch03. Linear Regression** | **예빈** |  |
+| **Ch03. Linear Regression** | **남규** |  |
+| **Ch03. Linear Regression** | **서연** |  |
 
 
 ---
@@ -29,7 +29,7 @@
 ### 1. 업로드 순서 (Colab -> GitHub)
 1. Colab 상단 메뉴: **[파일]** -> **[깃허브에 사본 저장]** 클릭
 2. 저장소(Repository) 선택: `ML-study`
-3. **파일 경로(File Path) 설정 (중요!)**: 아래 형식에 맞춰 경로를 직접 입력하세요.
+3. **파일 경로(File Path) 설정**: 아래 형식에 맞춰 경로를 직접 입력하세요.
    * 형식: `챕터번호/이름/파일명.ipynb`
    * 예시 (재우): `Ch02-Statistical-Learning/Jae-woo/exercise.ipynb`
    * 예시 (남규): `Ch02-Statistical-Learning/Nam-gyu/exercise.ipynb`
