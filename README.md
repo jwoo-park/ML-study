@@ -26,3 +26,14 @@ ML-study/
 │   ├── Nam-gyu/
 │   └── Final_Review.ipynb      <-- 최종 통합본 (논의 후 생성)
 └── Ch03-Linear-Regression/
+
+### 3. 학습 현황 (Learning status)
+1. 링크 형식: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/계정명/레포명/blob/main/챕터명/스터디원명/파일명.ipynb)
+2. Open In Colab: https://openincolab.com/
+3. 학습 현황
+| 주제 | 스터디원 | 실습 바로가기 |
+| :--- | :---: | :---: |
+| **Ch02. Statistical Learning** | **재우** |  |
+| **Ch02. Statistical Learning** | **예빈** |  |
+| **Ch02. Statistical Learning** | **남규** |  |
+| **Ch02. Statistical Learning** | **서연** |  |
